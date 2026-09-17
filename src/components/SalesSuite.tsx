@@ -1,5 +1,3 @@
-"use client";
-
 import { useCallback, useEffect, useRef, useState } from "react";
 import ChapterCopy from "@/components/ChapterCopy";
 import DetailCard from "@/components/DetailCard";
